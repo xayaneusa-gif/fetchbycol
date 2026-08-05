@@ -1,0 +1,19 @@
+GET /api/view/student?entity=6487ec9e91f7297664a62ffc&session=2025-26%20Odd&regNo=1230121026&requestMode=web&mobileVersion=173 HTTP/2
+Host: studentapi.odpay.in
+Sec-Ch-Ua-Platform: "Linux"
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uTGlzdCI6WyIyMDIzLTI0IE9kZCIsIjIwMjMtMjQgRXZlbiIsIjIwMjQtMjUgT2RkIiwiMjAyNC0yNSBFdmVuIiwiMjAyNS0yNiBPZGQiLCIyMDI1LTI2IEV2ZW4iXSwicGVybWlzc2lvbnMiOltdLCJ0b2tlblZlcnNpb24iOjQsIl9pZCI6IjY0YjlkYjgxZDA0NGRhNjJlZDQzM2VlOCIsIm5hbWUiOiJWaWtybSBTaW5naCIsImZhdGhlck5hbWUiOiJTVURBUlNIQU4iLCJtb3RoZXJOYW1lIjoiU3VuaXRhIFJhbmkiLCJkb2IiOiIyMDA1LTAyLTAyVDAwOjAwOjAwLjAwMFoiLCJyZWdObyI6IjEyMzAxMjEwMjYiLCJnZW5kZXIiOiJNYWxlIiwicGhvbmUiOiI3MDE1MTE5NDAyIiwiZW50aXR5IjoiNjQ4N2VjOWU5MWY3Mjk3NjY0YTYyZmZjIiwidG9rZW4iOm51bGwsInVzZXJUeXBlIjoib2Q0IiwidWlkIjoiMzk4OTIzNjA2MjQ0IiwiZW1haWwiOiJ2aWtyYW0ua3RsNjE5QGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiMTIzMDEyMTAyNk9EIiwiaWF0IjoxNzczMzI5MTc3fQ.t3BGNRJ6GlZhLyvqm91GbNUOn79dNKQn5yQjcxnhoSs
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua: "Chromium";v="147", "Not.A/Brand";v="8"
+Sec-Ch-Ua-Mobile: ?0
+Origin: https://student.okiedokiepay.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://student.okiedokiepay.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+If-None-Match: W/"147e-gSfA0X431NZ3eO3D2JuCWtxRxwU"
+Priority: u=1, i
+
+
